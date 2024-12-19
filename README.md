@@ -5,7 +5,7 @@
 CarSphere is a modern, responsive React-based website that enables users to explore a vast range of car brands and models from around the world. The platform includes features like a dynamic homepage carousel, powerful filtering options, car comparison tools, 3D model viewers, and interactive car customization.
 
 ### **Demo**  
-🔗 [Live Demo of AgroSphere](https://carsphere.netlify.app/)   
+🔗 [Live Demo of CarSphere](https://carsphere.netlify.app/)   
 
 ## Features
 - **Dynamic Homepage Carousel**: Showcases top car brands for quick exploration.
