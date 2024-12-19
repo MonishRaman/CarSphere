@@ -39,8 +39,8 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">Contact Info</h3>
             <ul className="space-y-2 text-gray-600 dark:text-gray-400">
-              <li>Email: info@carshowcase.com</li>
-              <li>Phone: +1 (555) 123-4567</li>
+              <li>Email: monishr608@gmail.com</li>
+              <li>Phone: +91 82968 63444</li>
               <li>Address: 123 Car Street, Auto City</li>
             </ul>
           </div>
@@ -64,7 +64,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 pt-8 border-t border-gray-200 dark:border-gray-700">
           <p className="text-center text-gray-600 dark:text-gray-400">
-            © {new Date().getFullYear()} Car Showcase. All rights reserved.
+            © {new Date().getFullYear()} CarSphere. All rights reserved.
           </p>
         </div>
       </div>
